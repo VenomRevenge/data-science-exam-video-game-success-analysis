@@ -1,0 +1,18 @@
+The Video_Games.csv file provides comprehensive data on video game sales, ratings, and user insights globally, including details such as the game's name, platform, year of release, genre, publisher, sales in different regions, critic and user scores, and ESRB rating
+
+- Name: The name of the video game. (String)
+- Platform: The platform on which the game is available, such as PC, PS4, Xbox, etc. (String)
+- Year_of_Release: The year in which the game was released. (Integer)
+- Genre: The genre of the game, such as Action, Sports, etc. (String)
+- Publisher: The company that published the game. (String)
+- NA_Sales: The sales of the game in North America, in millions. (Float)
+- EU_Sales: The sales of the game in Europe, in millions. (Float)
+- JP_Sales: The sales of the game in Japan, in millions. (Float)
+- Other_Sales: The sales of the game in other regions, in millions. (Float)
+- Global_Sales: The total global sales of the game, in millions. (Float)
+- Critic_Score: The average score given to the game by critics. (Float)
+- Critic_Count: The number of critics who reviewed the game. (Integer)
+- User_Score: The average score given to the game by users. (Float)
+- User_Count: The number of users who reviewed the game. (Integer)
+- Developer: The company that developed the game. (String)
+- Rating: The ESRB rating of the game, such as E for Everyone, T for Teen, or M for Mature. (String)
