@@ -44,7 +44,8 @@ jupyter notebook
 ```
 data/  # Datasets
     raw/
-    cleaned/
+    temp/
+    clean/
 video_games_analysis.ipynb - Main project
 requirements.txt - Required libraries
 ```
