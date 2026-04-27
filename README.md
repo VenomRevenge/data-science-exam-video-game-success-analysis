@@ -5,7 +5,7 @@ Data Science - Exam Project
 
 This project explores the key factors that influence the commercial success of video games. By combining multiple datasets, the analysis investigates how attributes such as genre, platform, release year, and review scores relate to global sales.
 
-The project applies data science techniques including data cleaning, exploratory data analysis (EDA), statistical testing, and **predictive modeling**.
+The project applies data science techniques including data cleaning, exploratory data analysis (EDA), statistical testing, and an attempt at predictive modeling.
 
 **Note**: There is a possibility this project does not include predictive modelling.
 
@@ -13,7 +13,7 @@ The project applies data science techniques including data cleaning, exploratory
 - Data cleaning
 - Exploratory Data Analysis (EDA)
 - Statistical analysis (p-values, correlations)
-- Modelling **(If I have enough time)**
+- Modeling
 
 ## How to run
 
@@ -38,6 +38,7 @@ jupyter notebook
 - Numpy
 - Matplotlib
 - SciPy
+- scikit-learn
 
 ## Repository Structure
 
@@ -72,7 +73,8 @@ requirements.txt - Required libraries
 - Correlation metrics
 - P-value interpretation
 
-5. Modeling (TBD)
+5. Modeling
+- Built a linear regression model to estimate global sales from review-related features (critic_score, user_score, critic_count, user_count)
 
 ## References
 
