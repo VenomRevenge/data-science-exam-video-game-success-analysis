@@ -7,8 +7,6 @@ This project explores the key factors that influence the commercial success of v
 
 The project applies data science techniques including data cleaning, exploratory data analysis (EDA), statistical testing, and an attempt at predictive modeling.
 
-**Note**: There is a possibility this project does not include predictive modelling.
-
 ## Techniques Used
 - Data cleaning
 - Exploratory Data Analysis (EDA)
